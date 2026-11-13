@@ -42,3 +42,4 @@ class Contact {
     return '$star[$id] $name | Тел: $phone | Email: $email | Категорія: $category';
   }
 }
+

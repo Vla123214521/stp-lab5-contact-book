@@ -63,3 +63,4 @@ class DeleteContactUseCase {
     return _repository.delete(id.trim());
   }
 }
+

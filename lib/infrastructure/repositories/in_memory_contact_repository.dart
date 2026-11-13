@@ -77,3 +77,4 @@ class InMemoryContactRepository implements IContactRepository {
     }).toList();
   }
 }
+

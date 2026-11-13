@@ -52,3 +52,4 @@ class GetContactsUseCase {
     return list;
   }
 }
+

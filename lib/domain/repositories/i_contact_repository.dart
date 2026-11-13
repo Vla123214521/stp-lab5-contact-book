@@ -22,3 +22,4 @@ abstract class IContactRepository {
   /// Пошук контактів за підрядком (ім'я, телефон або email).
   List<Contact> search(String query);
 }
+

@@ -1,0 +1,34 @@
+[
+  {
+    "id": "C-001",
+    "name": "Олександр Ткачук",
+    "phone": "+380671112233",
+    "email": "o.tkachuk@gmail.com",
+    "category": "Робота",
+    "isFavorite": true
+  },
+  {
+    "id": "C-002",
+    "name": "Анна Мельник",
+    "phone": "+380501119988",
+    "email": "melnyk_anna@ukr.net",
+    "category": "Друзі",
+    "isFavorite": true
+  },
+  {
+    "id": "C-003",
+    "name": "Богдан Шевченко",
+    "phone": "+380934567890",
+    "email": "b.sheva@outlook.com",
+    "category": "Коледж",
+    "isFavorite": true
+  },
+  {
+    "id": "C-004",
+    "name": "Владислав Ніякий",
+    "phone": "+380681234567",
+    "email": "ki27.niiakyi.vladyslav@vtc.vn.ua",
+    "category": "Коледж",
+    "isFavorite": true
+  }
+]
